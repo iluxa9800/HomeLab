@@ -22,23 +22,32 @@
 - Hyper-V
 
 Виртуальные машины
-
+    
+Windows Server 2025 
+ -Active Directory
+ -DNS
 
 Windows 11
-    │
- Hyper-V
-    │
- ├── Windows Server 2025
- │      ├── Active Directory
- │      └── DNS
- │
- └── Ubuntu Server 24.04 LTS
-        ├── PostgreSQL
-        ├── Nginx
-        ├── PHP-FPM
-        ├── Zabbix Server
-        ├── Zabbix Frontend
-        └── Zabbix Agent2
+-подключена к домену для проверок gpo
+
+Ubuntu Server 24.04 LTS 
+ -PostgreSQL
+ -Nginx
+ -PHP-FPM
+ -Zabbix Server
+ -Zabbix Frontend
+ -Zabbix Agent2
+
+Ubuntu Server 24.04 LTS
+ -docker / docker-compose
+ -Nginx (reverse proxy) 
+ -Wordpress
+ -mysql
+ -prometheus
+ -grafana
+ -fail2ban
+ -node exporter
+
 
 # Освоенные технологии
 
