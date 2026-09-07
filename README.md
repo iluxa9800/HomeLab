@@ -134,9 +134,6 @@ Ubuntu Server 24.04 LTS
 - Commit;
 - Branch;
 - Merge;
-- Working Tree;
-- Staging Area;
-- Remote Repository.
 
 Используется для ведения документации и контроля изменений проекта.
 
